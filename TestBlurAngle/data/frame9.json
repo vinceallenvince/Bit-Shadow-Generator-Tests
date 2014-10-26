@@ -1,0 +1,35 @@
+{
+	"frame":10002,
+	"world":
+		{
+			"name":"World",
+			"colorMode":"rgb",
+			"color":[40,40,40],
+			"id":"World1",
+			"resolution":2,
+			"width":480,
+			"height":270
+		},
+	"items":[
+		{
+			"name":"Particle",
+			"scale":2,
+			"angle":0,
+			"color":[200,200,200],
+			"opacity":1,
+			"velocity":
+				{
+					"x":-3,
+					"y":-2
+				},
+			"location":
+				{
+					"x":240,
+					"y":135
+				},
+			"maxSpeed":10,
+			"minSpeed":0,
+			"id":"Particle564"
+		}
+	]
+}
